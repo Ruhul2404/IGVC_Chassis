@@ -1,0 +1,53 @@
+IGVC Chassis
+# making parts
+(made a file base)
+    top plane: made a rectangle of dimension 24in x 18in
+    made a rectangle of 3in x 1in 7 in from the center
+    extruded boss/base of the rectangle 0.7in and the rectangle 4in in opposite direction
+    front plane: made 1in circle on the 2in rectangle extruded
+    extruded cut the 1in hole
+    top plane: made 2 squares 1.5in, 2in and 1in from the border
+(made a file laptop base)
+    top plane: made a 24in x 21in rectangle
+    made 2 rectangles 1in x 4in, 1in from the edge
+    extruded the rectangle 0.7in, and rectangle 11.5in
+    made circle 1in, 10,5in from the top
+    extruded cut on both the sides
+(made a file top base)
+    top plane: rectangle of 24in x 18in,
+    made 2 squares 1.5in, 2in and 1in from the border
+    extrude back(15in), as well as pillar(30in)
+(made a file top)
+   made 2 squares 1.5in, 22in apart
+   extruded 18in
+   right plane: made a 1in square, 1in from the top
+   extruded boss/base 20.5in
+   made a 0.5in circle on top and extruded it
+appearance polish beech 2d
+(made a file rear wheel)
+    made a 10in wheel
+(made a file front wheel)
+    made a 2.5 in cart wheel
+(made a file rear rod)
+    made a 1in circle, extrude it 34in
+(made a file front rod)
+    1in circle extruded 4in
+(made a file support)
+    25.66in support
+(made a file top support)
+    38.49in support
+(made a file payload)
+    cuboid of 22in x 15.7in x 13.7in
+(made a file exhaust)
+    made a 22in x 13.7i rectangle and place a 3in circle with 45degree cuts
+(made a file exhaust cover)
+    rectangle of 4in x 9.33in with 4 rectangle cuts
+(made a file boundary)
+    to protect laptop a boundary of 1in x 18.67in at an angle of 37.72 degrees
+
+# assembling parts
+    assemble base, laptop base, top base, top & exhaust
+    assemble rear and front wheel via rod
+    assembled support, and top support
+    assembled payload, exhaust cover
+    assembled the boundary
